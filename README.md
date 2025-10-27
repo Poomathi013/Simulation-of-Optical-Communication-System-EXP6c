@@ -27,7 +27,7 @@ The simulation is set to run 5 “iterations”, with the fiber length varying f
 # GRAPH:
 <img width="1600" height="1216" alt="image" src="https://github.com/user-attachments/assets/079e2f52-8f34-4271-8964-7280e5ddfca9" />
 <img width="1007" height="1599" alt="image" src="https://github.com/user-attachments/assets/6c27271b-d732-46c6-a473-05c3706d9f13" />
-# RESULT: 
+#  RESULT: 
 Thus the simulation of optical commucation system using dispersion compensation verified successfully.
 
 
